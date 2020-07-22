@@ -1,0 +1,119 @@
+body {
+    background-color: currentColor;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.page-header {
+    text-align: center;
+    font-weight: 700;
+    margin: 20px auto 15px auto;
+}
+
+.pull-right {
+    float: right;
+}
+
+td>ul.list-inline {
+    margin-bottom: 0;
+}
+
+#ventre{
+    
+}
+
+#font{
+    float: right;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#fb{
+    color: black;
+    text-decoration-line: none;
+}
+#gl{
+    color: black;
+    text-decoration-line: none;
+}
+#twi{
+    color: black;
+    text-decoration-line: none;
+}
+#wha{
+    color: black;
+    text-decoration-line: none;
+}
+#ins{
+    color: black;
+    text-decoration-line: none;
+}
+#you{
+    color: black;
+    text-decoration-line: none;
+}
+#fb:hover{
+color: royalblue;
+font-size: 30px;
+transition: 0.2s;
+
+background-color: white;
+border-radius: 15px;
+padding: 3px 1px 3px 3px;
+
+}
+
+#gl:hover{
+    color: orangered;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: white;
+    border-radius: 15px;
+    padding: 1px 1px 3px 3px;    
+}
+
+#twi:hover{
+    color: white;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: deepskyblue;
+    border-radius: 15px;
+    padding: 1px 1px 2px 3px;
+}
+
+#wha:hover{
+    color: limegreen;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: white;
+    border-radius: 15px;
+    padding: 1px 1px 3px 3px;
+
+
+}
+
+#ins:hover{
+    color: white;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: darkorange;
+    border-radius: 15px;
+    padding: 1px 1px 3px 3px;
+    
+}
+
+#you:hover{
+    color: red;
+    font-size: 30px;
+    transition: 0.2s;
+    background-color: white;
+    border-radius: 15px;
+    padding: 1px 1px 3px 3px;
+}
+
+#btn:hover{
+        transition: 0.4s;
+        margin-top: 5px;
+}

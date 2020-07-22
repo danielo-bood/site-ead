@@ -1,0 +1,143 @@
+                        td ul {
+                            margin-bottom: 0
+                        }
+                        
+                        #page-content {
+                            margin-bottom: 20px;
+                        }
+                        
+                        .img-produit {
+                            height: 100px;
+                            width: 100%;
+                            margin-bottom: 10px;
+                        }
+                        
+                        .card-content {
+                            display: flex;
+                            padding: 10px 5px;
+                        }
+                        
+                        .card-content-item {
+                            margin-right: 5px;
+                        }
+                        
+                        #grid-produit .card {
+                            margin: 15px 0;
+                        }
+                        
+                        .mycard {
+                            max-width: 560px;
+                            margin: 10px auto;
+                            border: 1px solid #ddd;
+                            padding: 15px;
+                            border-radius: 5px;
+                            box-shadow: 2px 3px 5px #aaa;
+                        }
+                        
+                        #grid-produit .card:hover {
+                            transform: scale(1.1);
+                            box-shadow: 1px 2px 3px #ccc;
+                            transition: 0.4s;
+                        }
+                        
+                        #grid-produit a {
+                            text-decoration: none;
+                            color: #555;
+                        }
+                        
+                        input[type="number"] {
+                            text-align: right;
+                        }
+                        
+                        #page-header {
+                            height: 150px;
+                            background-color: darkcyan;
+                            position: relative;
+                            top: 0;
+                        }
+                        
+                        #page-footer {
+                            height: 200px;
+                            background-color: #ccc;
+                            position: relative;
+                            bottom: 0;
+                        }
+                        
+                        #footer-top {
+                            height: 160px;
+                        }
+                        
+                        #footer-bottom {
+                            background-color: #fff;
+                            height: 30px;
+                        }
+                        
+                        #h1 {
+                            color: black;
+                            background-color: transparent;
+                            font-weight: 800;
+                            letter-spacing: 3px;
+
+                            height: 100px;
+                            padding-top: 28px;
+                            background-color: white;
+                            
+                            animation-name: script;
+                            animation-duration: 20s;
+                            animation-timing-function: ease;
+                            animation-delay: 2s; 
+                            animation-iteration-count: infinite;
+                            
+                            animation-name: script;
+                            animation-duration: 20s;
+                            animation-timing-function: ease;
+                            animation-delay: 2s; 
+                            animation-iteration-count: infinite;
+                            
+                            -o-animation-name: script;
+                            -o-animation-duration: 20s;
+                            -o-animation-timing-function: ease;
+                            -o-animation-delay: 2s; 
+                            -o-animation-iteration-count: infinite;
+
+                            -moz-animation-name: script;
+                            -moz-animation-duration: 20s;
+                            -moz-animation-timing-function: ease;
+                            -moz-animation-delay: 2s; 
+                            -moz-animation-iteration-count: infinite;
+
+                            -webkit-animation-name: script;
+                            -webkit-animation-duration: 20s;
+                            -webkit-animation-timing-function: ease;
+                            -webkit-animation-delay: 2s; 
+                            -webkit-animation-iteration-count: infinite; 
+
+                            letter-spacing: 1px;
+                            
+                        }
+
+                        @-webkit-keyframes script{
+                            0%{
+                            color: white;
+                            
+                            }
+                            25%{
+                                color: lightblue;
+                            }
+                            50%{
+                                color: powderblue;
+                            }
+                            75%{
+                                color: lightgray;
+                            }
+                            90%{
+                                color: black;
+                                letter-spacing: 5px;
+                            }
+                            100%{
+                                color: white;
+                            }
+                        
+
+                        }
+                                                }

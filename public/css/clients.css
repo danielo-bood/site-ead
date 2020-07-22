@@ -1,0 +1,80 @@
+#ajouter{
+    float: right;
+}
+
+#carte{
+    
+}
+
+#tcorps{
+    box-shadow: 1px 1px 7px;
+    padding: 10px 10px 0px 10;
+    background-color: aliceblue;
+}
+
+#h2 {
+                            color: black;
+                            letter-spacing: 3px;
+
+                            height: 100px;
+                            padding-top: 28px;
+                            
+                            animation-name: script;
+                            animation-duration: 20s;
+                            animation-timing-function: ease;
+                            animation-delay: 2s; 
+                            animation-iteration-count: infinite;
+                            
+                            animation-name: script;
+                            animation-duration: 20s;
+                            animation-timing-function: ease;
+                            animation-delay: 2s; 
+                            animation-iteration-count: infinite;
+                            
+                            -o-animation-name: script;
+                            -o-animation-duration: 20s;
+                            -o-animation-timing-function: ease;
+                            -o-animation-delay: 2s; 
+                            -o-animation-iteration-count: infinite;
+
+                            -moz-animation-name: script;
+                            -moz-animation-duration: 20s;
+                            -moz-animation-timing-function: ease;
+                            -moz-animation-delay: 2s; 
+                            -moz-animation-iteration-count: infinite;
+
+                            -webkit-animation-name: script;
+                            -webkit-animation-duration: 20s;
+                            -webkit-animation-timing-function: ease;
+                            -webkit-animation-delay: 2s; 
+                            -webkit-animation-iteration-count: infinite; 
+
+                            letter-spacing: 1px;
+                            
+                        }
+
+                        @-webkit-keyframes script{
+                            0%{
+                            color: white;
+                            
+                            }
+                            25%{
+                                color: lightblue;
+                            }
+                            50%{
+                                color: powderblue;
+                            }
+                            75%{
+                                color: lightgray;
+                            }
+                            90%{
+                                color: black;
+                                letter-spacing: 5px;
+                            }
+                            100%{
+                                color: white;
+                            }
+                        
+
+                        }
+                                                }

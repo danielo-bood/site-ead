@@ -1,0 +1,175 @@
+#tete {
+    height: 120px;
+    background-color: deepskyblue;
+}
+
+#tvendeur{
+    height: 120px;
+    background-color: darkslategray;
+}
+
+#treceptionniste{
+    height: 120px;
+    background-color:sienna;;
+}
+
+#texte {}
+
+#site_name {
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: 85px;
+}
+
+#rsite_name {
+    text-align: center;
+    color: lightgray;
+    position: relative;
+    bottom: 85px;
+    font-weight: 400;
+    letter-spacing: 4px;
+}
+
+#vsite_name {
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: 80px;
+    font-size: 38px;
+    letter-spacing: 2px;
+    font-weight: lighter;
+}
+
+#image {
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#menu {
+    /*background-color: blue;*/
+    padding: 10px;
+    background-color: gray;
+    margin-bottom: 25px;
+}
+
+#mvendeur{
+    padding: 10px;
+    background-color: currentColor;
+    margin-bottom: 25px;
+}
+
+#mvendeur ul {
+    min-height: 60px;
+    padding-top: 10px;
+}
+
+#mreceptionniste{
+    background-color: darkslategrey;
+    margin-bottom: 25px;
+    padding: 5px;
+}
+
+
+#menu ul {
+    min-height: 60px;
+    padding-top: 10px;
+}
+
+#mreceptionniste ul {
+    min-height: 95px;
+    padding-top: 10px;
+}
+
+#menu ul>li {
+    margin-left: 20px;
+    display: inline;
+}
+
+#mvendeur ul>li {
+    margin-left: 20px;
+    display: inline;
+}
+
+#mreceptionniste ul>li {
+    margin-left: 20px;
+    display: inline;
+    
+}
+
+#menu ul>li>a {
+    color: white;
+    text-decoration-line: none;
+}
+#mreceptionniste ul>li>a {
+    color: white;
+    text-decoration-line: none;
+}
+#mvendeur ul>li>a {
+    color: white;
+    text-decoration-line: none;
+}
+
+#mvendeur ul>li>a :hover {
+    color: black;
+}
+
+ul>li>a :hover {
+    color: black;
+}
+
+body {
+    background-color: white;
+}
+
+#corps {
+    height: 600px;
+    background-color: aliceblue;
+}
+
+#pied {
+    background-color: gray;
+    min-height: 20vh;
+    margin-bottom: -30px;
+    padding: 20px;
+    margin-top: 25px;
+}
+
+#pvendeur{
+    background-color: darkslategray;
+    min-height: 20vh;
+    margin-bottom: -30px;
+    padding: 20px;
+    margin-top: 25px;    
+}
+
+#preceptionniste{
+    background-color: darkslategrey;
+    min-height: 20vh;
+    margin-bottom: -30px;
+    padding: 20px;
+    margin-top: 25px;
+}
+
+#btn a{
+    color: white;
+    text-decoration: none;
+}
+
+#pos{
+    float: right;
+    text-align: right;
+}
+#divp{
+    margin-right: -190px;
+}
+h3{
+    color: black;
+    font-family: consolas;
+    letter-spacing: 2px;
+}
+
+#form{
+    margin-top: 15%;
+}
